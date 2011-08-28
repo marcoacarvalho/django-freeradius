@@ -1,4 +1,4 @@
-PowerDNS Example Project
+Example Project
 ========================
 
 The 'example' directory contains a ready made Django project that should "just work" in the same way
